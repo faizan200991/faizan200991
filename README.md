@@ -1,10 +1,7 @@
-# Hi, I'm Zikrullah Faizan
-
+# Zikrullah Faizan  
 **Computer Science Student | Web Developer | AI & Software Enthusiast**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zikrullah22&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=zikrullah22&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile views" />
 
 Motivated Computer Science student at **Albukhary International University** passionate about building real-world systems, web applications, ERP platforms, and innovative digital solutions.
 
@@ -12,25 +9,23 @@ Motivated Computer Science student at **Albukhary International University** pas
 
 ## About Me
 
-- Computer Science Student at Albukhary International University
-- Web Developer & Software Builder
-- Flutter & Mobile App Enthusiast
-- Interested in Artificial Intelligence & Cloud
-- Currently learning Advanced Software Development & AI
+- Computer Science Student at Albukhary International University  
+- Web Developer & Software Builder  
+- Flutter & Mobile App Enthusiast  
+- Interested in Artificial Intelligence & Cloud  
+- Currently learning Advanced Software Development & AI  
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,c,html,css,bootstrap,tailwind,flutter,dart,mysql,sqlite,firebase,git,github,linux,figma&perline=9" height="40" alt="Tech stack icons" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,php,c,html,css,bootstrap,tailwind,flutter,dart,mysql,sqlite,firebase,git,github,linux,figma&perline=8" height="40" alt="Tech stack icons" />
 
 ---
 
 ## Certifications & Achievements
 
-<p align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/ZikrullahFaizan-1518/HAX75NW8?sharingId=A37627BA3F52AF67">
     <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-ai-fundamentals.svg" height="90" alt="AI Fundamentals" />
   </a>
@@ -49,42 +44,34 @@ Motivated Computer Science student at **Albukhary International University** pas
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/fc61fa0bf36bb21f233b9a457076ba22872c5e3b">
     <img src="https://www.datacamp.com/statement-of-accomplishment/badge/track/fc61fa0bf36bb21f233b9a457076ba22872c5e3b.png" height="90" alt="DataCamp Track" />
   </a>
-</p>
+</div>
 
 ---
 
 ## Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikrullah22&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikrullah22&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top languages" />
 
 ---
 
 ## Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zikrullah22&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub contribution graph" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zikrullah22&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub contribution graph" />
 
 ---
 
-## Connect With Me
+## Connect
 
-<p align="center">
-  <a href="https://github.com/zikrullah22">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/zikrullah-faizan-a52757299">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zikrullahk96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<a href="https://github.com/zikrullah22">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/zikrullah-faizan-a52757299">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:zikrullahk96@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 ---
 
-<p align="center">
-  <i>Building technology that solves real-world problems.</i>
-</p>
+<p><i>Building technology that solves real-world problems.</i></p>
