@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=faizan200991.faizan200991" alt="Visitor badge" />
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zikrullah+Faizan!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Zikrullah+Faizan!;" />
 </h1>
 
 <h3 align="left">Computer Science Student at Albukhary International University</h3>
@@ -12,13 +12,13 @@
  
  🔭 I’m currently working on **Web Development & ERP projects**
  
- 🌱 I’m currently learning **AI & Cloud (AWS/Azure)**
+I’m currently learning **AI & Cloud (AWS/Azure)**
 
-💬 Ask me about **Python, JavaScript, PHP, Flutter... or anything [here](https://github.com/faizan200991/faizan200991/issues)**
+Ask me about **Python, JavaScript, PHP, Flutter... or anything [here](https://github.com/faizan200991/faizan200991/issues)**
 
-✉️ You can contact me at **zikrullahk96@gmail.com**
+You can contact me at **zikrullahk96@gmail.com**
 
-🤝 I'm always down to collab on anything cool 
+I'm always down to collab on anything cool 
 </div>
  
 <div align="left"> 
@@ -35,7 +35,7 @@
 
 <hr/>
 
-<h2 align="left">⚒️ Languages・Frameworks・Tools ⚒️</h2>
+<h2 align="left"> Languages・Frameworks・Tools </h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js,php,c,html,css,bootstrap,tailwind,flutter,dart,mysql,sqlite,firebase,git,github,linux,figma&perline=8" />
@@ -47,7 +47,7 @@
 
 <hr/>
 
-<h2 align="left">🏆 Certifications & Achievements</h2>
+<h2 align="left"> Certifications & Achievements</h2>
 
 <div align="left">
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/ZikrullahFaizan-1518/HAX75NW8?sharingId=A37627BA3F52AF67">
@@ -71,14 +71,6 @@
 </div>
 
 <hr/>
-
-<div align="left">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/faizan200991/faizan200991/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
