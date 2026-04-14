@@ -39,7 +39,7 @@
 
 <hr/>
 
-## 🛠️ Skills
+## Skills
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,php,cpp,c,ts,dart" />
