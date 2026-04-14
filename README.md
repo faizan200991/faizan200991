@@ -16,8 +16,6 @@
 
  Ask me about <b>Python, JavaScript, PHP,</b> — or open an issue <a href="https://github.com/faizan200991/faizan200991/issues">here</a><br><br>
 
- Reach me at <b>zikrullahk96@gmail.com</b><br><br>
-
  I’m always open to collaborating on exciting projects<br><br>
 
  Passionate about building impactful tech solutions for education, sustainability, and real-world problems
