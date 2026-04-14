@@ -14,7 +14,7 @@
  
  I’m currently learning <b>AI & Cloud (AWS/Azure)</b><br><br>
 
- Ask me about <b>Python, JavaScript, PHP, Flutter</b> — or open an issue <a href="https://github.com/faizan200991/faizan200991/issues">here</a><br><br>
+ Ask me about <b>Python, JavaScript, PHP,</b> — or open an issue <a href="https://github.com/faizan200991/faizan200991/issues">here</a><br><br>
 
  Reach me at <b>zikrullahk96@gmail.com</b><br><br>
 
@@ -39,17 +39,22 @@
 
 <hr/>
 
-<h2 align="left">Languages ・ Frameworks ・ Tools</h2>
+## 🛠️ Skills
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,c,html,css,bootstrap,tailwind,flutter,dart,mysql,sqlite,firebase,git,github,linux,figma&perline=8" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,flask,mongodb" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=bash,azure,aws" />
-</div>
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,php,cpp,c,ts,dart" />
 
-<hr/>
+### Web Technologies & Frameworks
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,bootstrap,tailwind,nodejs,express,flask,php" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,bash" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,figma,docker" />
 
 <h2 align="left">Certifications & Achievements</h2>
 
@@ -68,6 +73,13 @@
   </a>
   <a href="https://www.datacamp.com/certificate/AIEDA0014106530148">
     <img src="https://media.datacamp.com/cms/certification-ai-engineer-for-developers-associate-badge.png" height="90" />
+  </a>
+  <a href="https://www.credly.com/badges/e1f33751-77d0-44e1-b79e-9d42cf2ad67b" target="_blank">
+    <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="90" alt="Python Essentials 1 Badge"/>
+  </a>
+  <!-- Python Essentials 2 -->
+  <a href="https://www.credly.com/badges/38509960-ff6e-472f-abb2-ce58a686b5ac" target="_blank">
+    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2fa6b469-476b-4bfb-a433-63a3d4e5b039.png" height="90" alt="Python Essentials 2 Badge"/>
   </a>
 </div>
 
