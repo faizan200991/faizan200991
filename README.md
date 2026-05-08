@@ -48,9 +48,6 @@
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite" />
 
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,linux,bash" />
-
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,figma,docker" />
 
