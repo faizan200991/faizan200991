@@ -57,29 +57,39 @@
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/ZikrullahFaizan-1518/HAX75NW8?sharingId=A37627BA3F52AF67">
     <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-ai-fundamentals.svg" height="90" />
   </a>
+
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/ZikrullahFaizan-1518/9XWAZ9EU?sharingId=A37627BA3F52AF67">
     <img src="https://learn.microsoft.com/en-us/training/achievements/fundamentals-azure-ai-services.svg" height="90" />
   </a>
+
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/ZikrullahFaizan-1518/ZKPQMVM2?sharingId=A37627BA3F52AF67">
     <img src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" height="90" />
   </a>
+
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/ZikrullahFaizan-1518/UYF2EHD3?sharingId=A37627BA3F52AF67">
     <img src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" height="90" />
   </a>
+
   <a href="https://www.datacamp.com/certificate/AIEDA0014106530148">
     <img src="https://media.datacamp.com/cms/certification-ai-engineer-for-developers-associate-badge.png" height="90" />
   </a>
+
   <a href="https://www.credly.com/badges/e1f33751-77d0-44e1-b79e-9d42cf2ad67b" target="_blank">
     <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="90" alt="Python Essentials 1 Badge"/>
   </a>
+
   <!-- Python Essentials 2 -->
   <a href="https://www.credly.com/badges/38509960-ff6e-472f-abb2-ce58a686b5ac" target="_blank">
     <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2fa6b469-476b-4bfb-a433-63a3d4e5b039.png" height="90" alt="Python Essentials 2 Badge"/>
   </a>
+
+  <!-- Coursera Metaverse Badge -->
+  <a href="https://coursera.org/share/210026a9cb621c11f03dd62cd5476b15" target="_blank">
+    <img src="https://blog.coursera.org/wp-content/uploads/2022/06/blog_template-copy-2a.jpg" height="90" alt="Metaverse Course Badge"/>
+  </a>
 </div>
 
 <hr/>
-
 <h2 align="left">GitHub Stats</h2>
 
 <div align="left">
